@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="LENOVO_Y580\Tom" GeneratedFromPackageName="FFM_Recon" GeneratedFromPackageID="{BE63E001-E725-482B-A928-537BF22FADC1}" GeneratedDate="7/25/2014 7:30:13 AM"/>
+	</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::filEMI834].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\Users\Tom\Documents\Inotek\EMI\Temp\EMI834.txt</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::filFFM834].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\Users\Tom\Documents\Inotek\EMI\Temp\FFM834.txt</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::filWorkingFile].Properties[Value]" ValueType="String">
+		<ConfiguredValue>NONE</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::pathEMI834].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\Users\Tom\Documents\Inotek\EMI\FedExch_D305_wTerms_20140807_834\</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::pathFFM834].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\Users\Tom\Documents\Inotek\EMI\FedExch archive\</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::pathTemporaryFile].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\Users\Tom\Documents\Inotek\EMI\Temp\</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::pathVBSScripts].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\Users\Tom\Documents\GitHub\EMI\VBS Scripts\</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::pathWorkingFolder].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\Users\Tom\Documents\Inotek\EMI\Working\</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>

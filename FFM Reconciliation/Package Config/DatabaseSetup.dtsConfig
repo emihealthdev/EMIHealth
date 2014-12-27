@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="LENOVO_Y580\Tom" GeneratedFromPackageName="DatabaseSetup" GeneratedFromPackageID="{B6D9DC91-650B-427C-A767-3BF0DA88990C}" GeneratedDate="7/25/2014 7:51:10 AM"/>
+	</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::filExcelSource].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\Users\Tom\Documents\GitHub\EMI\Documentation\Table Layouts.xlsx</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Variables[User::pathWorkingFolder].Properties[Value]" ValueType="String">
+		<ConfiguredValue>C:\Users\Tom\Documents\GitHub\EMI\SQL Scripts\</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>

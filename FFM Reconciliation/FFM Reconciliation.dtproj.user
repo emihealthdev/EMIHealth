@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>EMI</Id>
+            <Name>EMI</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF/nxf4KFP0GGX2lSRiFTzAAAAAAIAAAARQBNAEkAAAAQZgAAAAEAACAAAABKL8tNyIo02Hn+5G3I4vQMBpbNQgjZYMi5wV/r3Z5wCwAAAAAOgAAAAAIAACAAAACXN2j5mSqVwXY05ZClRjdZZwy6rSOWGoDlAkWvbTFL9BAAAAALh4vlYjZ16fCAoCuF1ACdQAAAAKLDrNezhKXkr1Gmcw1+UOUa0A+3yjyPW+KholwWML2imkfHwIvIbCm9QSg3ayIdBwh6cXOnJ6ks9nfQq3OUbv4=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>EMI</Id>
+            <Name>EMI</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAF/nxf4KFP0GGX2lSRiFTzAAAAAAIAAAARQBNAEkAAAAQZgAAAAEAACAAAACVa7qOPpXEY//2rV7B27YrAUMtDgE5tQpxqqLgIWC7vgAAAAAOgAAAAAIAACAAAADxJ+xU4Q0eMRaAwRFT0Ub5XIjbre/I/fIzg5yvJcRzGiAAAACclTQMCwrBCgKn74kygwbQHYsgrb/cF6SNYX0dH4QXnUAAAADtv6GwvSxD/STTNFUDT2XXFkBmJ/pOx3IB2uglcjpVD5ii0UHRaVX128k20Qahok1Iy57QFr0XlQW7McGGGMhK</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
